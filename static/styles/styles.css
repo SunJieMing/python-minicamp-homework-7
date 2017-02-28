@@ -1,0 +1,7 @@
+body {
+	background: whitesmoke;
+}
+
+.hidden-id {
+	visibility: hidden;
+}
